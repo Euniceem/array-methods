@@ -15,4 +15,32 @@ var friends = ['Todd', 'Jacoby', 'Miko', 'Joseph', 'Kevin', 'Todd C.'];
 var monthNames = ['Jan', 'Feb', 'Mar', 'Apr'];
 var bulkNumbers = [5, 5, 6, 6, 9, 9, 2, 2, 2, 5, 2];
 
+
 // do your work below!
+
+var nameArray = [];
+nameArray.push('Eunice', 'Min');
+
+genericNumberArray.push(6, 7, 8, 9, 10);
+
+colors.pop('Charlie');
+var popResult = 'Charlie';
+
+scrambledWords.reverse();
+phoneNumber.reverse();
+
+orderQueue.shift('');
+var nextOrder = { takeOut: 'Ice Cream' };
+
+mixedNums.sort();
+mixedWords.sort();
+
+fruitCollection.splice(1 , 3);
+var notFruit = ['Scissors', 'Pug', 'Lady Bug'];
+
+var remove = gemBox.splice(5, 2,);
+gemBox.splice(8, 0, remove);
+gemBox.splice(6, 6);
+
+var nineTen = upToTen.splice(2, 2);
+
